@@ -74,6 +74,9 @@ a{
 .nav-btn:hover{
     color: black;
 }
+.nav-btn:active{
+    box-shadow: 0px 15px 30px 0px rgb(0 0 0 / 30%) inset;
+}
 .main{
     padding: 5%;
     display: flex;
@@ -222,6 +225,9 @@ a{
 
 .section__button:hover{
     color: #333;
+}
+.section__button:active{
+    box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.3) inset;
 }
 button{
    cursor: pointer;
