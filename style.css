@@ -154,6 +154,7 @@ box-shadow: none;
     justify-content: center;
 }
 .main-sub h1{
+    text-align: center;
     color: #56299e !important;
     padding: 5% 0;
 }
@@ -264,7 +265,7 @@ button{
 }
 
 .about-me__text {
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     font-weight: 400;
     font-family: "Montserrat", sans-serif;
